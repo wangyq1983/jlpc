@@ -1,354 +1,343 @@
 musicList = [
   {
-    title: "Module 1 Unit 1 He’s a doctor",
+    title: "Module 1 Unit 1 She was a driver before",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
-
-    src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 1 Unit 1 He’s a doctor.mp3"
-  },
-
-  {
-    title: "Module 1 Unit 2 She’s a nurse",
-
-    singer: "外研社一下",
-
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 1 Unit 2 She’s a nurse.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 1 Unit 1 She was a driver before.mp3"
   },
 
   {
-    title: "Module 1 words",
+    title: "Module 1 Unit 2 He worked in an office",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
-
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 1 words.mp3"
-  },
-
-  {
-    title: "Module 2 Unit 1 Where’s the bird",
-
-    singer: "外研社一下",
-
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 2 Unit 1 Where’s the bird.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 1 Unit 2 He worked in an office.mp3"
   },
 
   {
-    title: "Module 2 Unit 2 The toy car is under the bed",
+    title: "Module 1 Words",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
+
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 1 Words.mp3"
+  },
+
+  {
+    title: "Module 2 Unit 1 What did she have for lunch",
+
+    singer: "外研社五下",
+
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 2 Unit 2 The toy car is under the bed.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 2 Unit 1 What did she have for lunch.mp3"
   },
 
   {
-    title: "Module 2 words",
+    title: "Module 2 Unit 2 Lunch is usually at half past twelve",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
-
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 2 words.mp3"
-  },
-
-  {
-    title: "Module 3 Unit 1 Where’s the orange cat",
-
-    singer: "外研社一下",
-
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 3 Unit 1 Where’s the orange cat.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 2 Unit 2 Lunch is usually at half past twelve.mp3"
   },
 
   {
-    title: "Module 3 Unit 2 How many green birds",
+    title: "Module 2 Words",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
+
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 2 Words.mp3"
+  },
+
+  {
+    title: "Module 3 Unit 1 Have you got the Harry Potter DVDs",
+
+    singer: "外研社五下",
+
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 3 Unit 2 How many green birds.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 3 Unit 1 Have you got the Harry Potter DVDs.mp3"
   },
 
   {
-    title: "Module 3 words",
+    title: "Module 3 Unit 2 You can use the computers",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
-
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 3 words.mp3"
-  },
-
-  {
-    title: "Module 4 Unit 1 This is my head",
-
-    singer: "外研社一下",
-
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 4 Unit 1 This is my head.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 3 Unit 2 You can use the computers.mp3"
   },
 
   {
-    title: "Module 4 Unit 2 These are your eyes",
+    title: "Module 3 Words",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
+
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 3 Words.mp3"
+  },
+
+  {
+    title: "Module 4 Unit 1 Did you read them",
+
+    singer: "外研社五下",
+
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 4 Unit 2 These are your eyes.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 4 Unit 1 Did you read them.mp3"
   },
 
   {
-    title: "Module 4 words",
+    title: "Module 4 Unit 2 My favourite season is spring",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
-
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 4 words.mp3"
-  },
-
-  {
-    title: "Module 5 Unit 1 They’re cows",
-
-    singer: "外研社一下",
-
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 5 Unit 1 They’re cows.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 4 Unit 2 My favourite season is spring.mp3"
   },
 
   {
-    title: "Module 5 Unit 2 It’s thin",
+    title: "Module 4 Words",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
+
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 4 Words.mp3"
+  },
+
+  {
+    title: "Module 5 Unit 1 Your bag is broken",
+
+    singer: "外研社五下",
+
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 5 Unit 2 It’s thin.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 5 Unit 1 Your bag is broken.mp3"
   },
 
   {
-    title: "Module 5 words",
+    title: "Module 5 Unit 2 Mine is pink",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
-
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 5 words.mp3"
-  },
-
-  {
-    title: "Module 6 Unit 1 These snakes are short",
-
-    singer: "外研社一下",
-
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 6 Unit 1 These snakes are short.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 5 Unit 2 Mine is pink.mp3"
   },
 
   {
-    title: "Module 6 Unit 2 They’re little and cute",
+    title: "Module 5 Words",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
+
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 5 Words.mp3"
+  },
+
+  {
+    title: "Module 6 Unit 1 We’ll see lots of very big stones",
+
+    singer: "外研社五下",
+
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 6 Unit 2 They’re little and cute.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 6 Unit 1 We’ll see lots of very big stones.mp3"
   },
 
   {
-    title: "Module 6 words",
+    title: "Module 6 Unit 2 It was amazing",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
-
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 6 words.mp3"
-  },
-
-  {
-    title: "Module 7 Unit 1 There is a cat in the tree",
-
-    singer: "外研社一下",
-
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 7 Unit 1 There is a cat in the tree.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 6 Unit 2 It was amazing.mp3"
   },
 
   {
-    title: "Module 7 Unit 2 There are three brown monkeys",
+    title: "Module 6 Words",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
+
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 6 Words.mp3"
+  },
+
+  {
+    title: "Module 7 Unit 1 My father goes to work at 8 o’clock every morning",
+
+    singer: "外研社五下",
+
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 7 Unit 2 There are three brown monkeys.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 7 Unit 1 My father goes to work at 8 o’clock every morning.mp3"
   },
 
   {
-    title: "Module 7 words",
+    title: "Module 7 Unit 2 I’ll be home at 7 o’clock",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
-
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 7 words.mp3"
-  },
-
-  {
-    title: "Module 8 Unit 1 There’s a pair of shorts under that duck",
-
-    singer: "外研社一下",
-
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 8 Unit 1 There’s a pair of shorts under that duck.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 7 Unit 2 I’ll be home at 7 o’clock.mp3"
   },
 
   {
-    title: "Module 8 Unit 2 There are two footballs under my desk",
+    title: "Module 7 Words",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
+
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 7 Words.mp3"
+  },
+
+  {
+    title: "Module 8 Unit 1 Will you help me",
+
+    singer: "外研社五下",
+
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 8 Unit 2 There are two footballs under my desk.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 8 Unit 1 Will you help me.mp3"
   },
 
   {
-    title: "Module 8 words",
+    title: "Module 8 Unit 2 I made a kite",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
-
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 8 words.mp3"
-  },
-
-  {
-    title: "Module 9 Unit 1 I like football",
-
-    singer: "外研社一下",
-
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 9 Unit 1 I like football.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 8 Unit 2 I made a kite.mp3"
   },
 
   {
-    title: "Module 9 Unit 2 What’s your favourite sport",
+    title: "Module 8 Words",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
+
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 8 Words.mp3"
+  },
+
+  {
+    title: "Module 9 Unit 1 We laughed a lot",
+
+    singer: "外研社五下",
+
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 9 Unit 2 What’s your favourite sport.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 9 Unit 1 We laughed a lot.mp3"
   },
 
   {
-    title: "Module 9 words",
+    title: "Module 9 Unit 2 Mum bought new chopsticks for you",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
-
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 9 words.mp3"
-  },
-
-  {
-    title: "Module 10 Unit 1 Let’s play football!",
-
-    singer: "外研社一下",
-
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 10 Unit 1 Let’s play football!.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 9 Unit 2 Mum bought new chopsticks for you.mp3"
   },
 
   {
-    title: "Module 10 Unit 2 Let’s sing!",
+    title: "Module 9 Words",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
+
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 9 Words.mp3"
+  },
+
+  {
+    title: "Module 10 Unit 1 What did you put in your bag",
+
+    singer: "外研社五下",
+
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
     src:
-      "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 10 Unit 2 Let’s sing!.mp3"
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 10 Unit 1 What did you put in your bag.mp3"
   },
 
   {
-    title: "Module 10 words",
+    title: "Module 10 Unit 2 I played on the beach",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy1x/Module 10 words.mp3"
+    src:
+      "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 10 Unit 2 I played on the beach.mp3"
   },
 
   {
-    title: "Reading for pleasure",
+    title: "Module 10 Words",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy1x/Reading for pleasure.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy5x/Module 10 Words.mp3"
   },
 
   {
-    title: "Review Module Unit 1",
+    title: "Readming for pleasure",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy1x/Review Module Unit 1.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy5x/Readming for pleasure.mp3"
   },
 
   {
     title: "Review Module Unit 2",
 
-    singer: "外研社一下",
+    singer: "外研社五下",
 
-    cover: "http://ting.xiai123.com/images/wysyy1x.png",
+    cover: "http://ting.xiai123.com/images/wysyy5x.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy1x/Review Module Unit 2.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy5x/Review Module Unit 2.mp3"
   }
 ];
-
 var ss = JSON.stringify(musicList);
 console.log(ss);

@@ -3,8 +3,8 @@ import json
 import os
 import requests
 
-f = open(r'D:/jielong/pachong/english_mp3/2x.json','r',encoding="utf-8")
-pathurl = r'D:\jielong\data\mp3\englishbook\2x'
+f = open(r'D:/jielong/pachong/english_mp3/6x.json','r',encoding="utf-8")
+pathurl = r'D:\jielong\data\mp3\englishbook\6x'
 
 if(os.path.isdir(pathurl)):
     pass

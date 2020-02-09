@@ -1,332 +1,322 @@
 musicList = [
   {
-    title: "Module1-1",
+    title: "Module01_Unit1",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module1-1.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module01_Unit1.mp3"
   },
 
   {
-    title: "Module1-2",
+    title: "Module01_Unit2",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module1-2.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module01_Unit2.mp3"
   },
 
   {
-    title: "Module1 words",
+    title: "Module01_Words",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module1 words.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module01_Words.mp3"
   },
 
   {
-    title: "Module2-1",
+    title: "Module02_Unit1",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module2-1.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module02_Unit1.mp3"
   },
 
   {
-    title: "Module2-2",
+    title: "Module02_Unit2",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module2-2.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module02_Unit2.mp3"
   },
 
   {
-    title: "Module2 words",
+    title: "Module02_Words",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module2 words.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module02_Words.mp3"
   },
 
   {
-    title: "Module3-1",
+    title: "Module03_Unit1",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module3-1.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module03_Unit1.mp3"
   },
 
   {
-    title: "Module3-2",
+    title: "Module03_Unit2",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module3-2.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module03_Unit2.mp3"
   },
 
   {
-    title: "Module3 words",
+    title: "Module03_Words",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module3 words.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module03_Words.mp3"
   },
 
   {
-    title: "Module4-1",
+    title: "Module04_Unit1",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module4-1.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module04_Unit1.mp3"
   },
 
   {
-    title: "Module4-2",
+    title: "Module04_Unit2",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module4-2.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module04_Unit2.mp3"
   },
 
   {
-    title: "Module4 words",
+    title: "Module04_Words",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module4 words.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module04_Words.mp3"
   },
 
   {
-    title: "Module5-1",
+    title: "Module05_Unit1",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module5-1.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module05_Unit1.mp3"
   },
 
   {
-    title: "Module5-2",
+    title: "Module05_Unit2",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module5-2.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module05_Unit2.mp3"
   },
 
   {
-    title: "Module5 words",
+    title: "Module05_Words",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module5 words.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module05_Words.mp3"
   },
 
   {
-    title: "Module6-1",
+    title: "Module06_Unit1",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module6-1.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module06_Unit1.mp3"
   },
 
   {
-    title: "Module6-2",
+    title: "Module06_Unit2",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module6-2.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module06_Unit2.mp3"
   },
 
   {
-    title: "Module6 words",
+    title: "Module06_Words",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module6 words.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module06_Words.mp3"
   },
 
   {
-    title: "Module7-1",
+    title: "Module07_Unit1",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module7-1.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module07_Unit1.mp3"
   },
 
   {
-    title: "Module7-2",
+    title: "Module07_Unit2",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module7-2.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module07_Unit2.mp3"
   },
 
   {
-    title: "Module7 words",
+    title: "Module07_Words",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module7 words.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module07_Words.mp3"
   },
 
   {
-    title: "Module8-1",
+    title: "Module08_Unit1",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module8-1.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module08_Unit1.mp3"
   },
 
   {
-    title: "Module8-2",
+    title: "Module08_Unit2",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module8-2.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module08_Unit2.mp3"
   },
 
   {
-    title: "Module8 words",
+    title: "Module08_Words",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module8 words.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module08_Words.mp3"
   },
 
   {
-    title: "Module9-1",
+    title: "Module09_Unit1",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module9-1.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module09_Unit1.mp3"
   },
 
   {
-    title: "Module9-2",
+    title: "Module09_Unit2",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module9-2.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module09_Unit2.mp3"
   },
 
   {
-    title: "Module9 words",
+    title: "Module09_Words",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module9 words.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module09_Words.mp3"
   },
 
   {
-    title: "Module10-1",
+    title: "Module10_Unit1",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module10-1.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module10_Unit1.mp3"
   },
 
   {
-    title: "Module10-2",
+    title: "Module10_Unit2",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module10-2.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module10_Unit2.mp3"
   },
 
   {
-    title: "Module10 words",
+    title: "Module10_Words",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/Module10 words.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Module10_Words.mp3"
   },
 
   {
-    title: "y.review Module_unit1",
+    title: "Review Module_Unit1",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/y.review Module_unit1.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Review Module_Unit1.mp3"
   },
 
   {
-    title: "y.review Module_unit2",
+    title: "Z.Reading for Pleasure",
 
-    singer: "外研社二上",
+    singer: "外研社四上",
 
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
+    cover: "http://ting.xiai123.com/images/wysyy4s.png",
 
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/y.review Module_unit2.mp3"
-  },
-
-  {
-    title: "z.reading for pleasure",
-
-    singer: "外研社二上",
-
-    cover: "http://ting.xiai123.com/images/wysyy2s.png",
-
-    src: "http://ting.xiai123.com/mp3/kewen/wysyy2s/z.reading for pleasure.mp3"
+    src: "http://ting.xiai123.com/mp3/kewen/wysyy4s/Z.Reading for Pleasure.mp3"
   }
 ];
 
