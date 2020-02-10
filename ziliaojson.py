@@ -1,9 +1,10 @@
 #!python3
 import json
+from glabdata import *
 # {
 #     "title": "小学数学同步[二年级上]",
 #     "tips": "二年级上",
-#     "course": "数学",
+#     "course": "数学",fc hvgn cbv
 #     "type": "jpg",
 #     "sid": "math_qd_tongbu_2up",
 #     "ver": "青岛版"
@@ -19,67 +20,7 @@ titleList = {
     '外研社一年级起小学英语音频':'外研社一年级起小学英语音频'
 }
 # title = titleList[0]
-tipList = [
-        "一年级上",
-        "一年级下",
-        "二年级上",
-        "二年级下",
-        "三年级上",
-        "三年级下",
-        "四年级上",
-        "四年级下",
-        "五年级上",
-        "五年级下",
-        "六年级上",
-        "六年级下"]
-yearList = [
-    "1s",
-    "1x",
-    "2s",
-    "2x",
-    "3s",
-    "3x",
-    "4s",
-    "4x",
-    "5s",
-    "5x",
-    "6s",
-    "6x",
-]    
-courseList = {
-    "english":"英语",
-    "math":"数学",
-    "chinese":"语文",
-    "holiday":"寒暑假"
-}
-typeList = {
-    "mp3":"mp3",
-    "pdf":"pdf",
-    "jpg":"jpg",
-    "word":"word",
-    "excel":"excel",
-    "html":"html"
-}
 
-verList = {
-    "renjiao":"人教版",
-    "qd":"青岛版",
-    "wys":"外研社"
-}
-engverList = {
-    "renjiao":"renjiao",
-    "qd":"qd",
-    "wys":"wys"
-}
-
-booklist = {
-    "english_book":"english_book",
-    "english_tongbu":"english_tongbu",
-    "chinese_book":"chinese_book",
-    "chinese_tongbu":"chinese_tongbu",
-    "math_book":"math_book",
-    "math_tongbu":"math_tongbu"
-}
 
 
 def createZiliao(type,book,engver,ctitle,course,ver,year='all'):
@@ -120,7 +61,7 @@ def createZiliao(type,book,engver,ctitle,course,ver,year='all'):
 
 
 f = open(r'D:/jielong/resources/ziliao.json','a',encoding="utf-8")
-createZiliao(typeList['mp3'],booklist['english_book'],engverList['wys'],titleList['外研社一年级起小学英语音频'],courseList['english'],verList['wys'],'3s')
+createZiliao(typeList['mp3'],booklist['english_book'],engverList['wys'],titleList['外研社一年级起小学英语音频'],courseList['english'],verList['wys'],'s')
 
 # f.write(json.dumps(strobj,ensure_ascii=False))
 f.close()
