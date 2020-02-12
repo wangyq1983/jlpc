@@ -15,9 +15,13 @@ from glabdata import *
 
 #标题列表 
 
-titleList = ['外研社一年级起小学英语音频']
+# titleList = ['外研社一年级起小学英语音频']
 titleList = {
-    '外研社一年级起小学英语音频':'外研社一年级起小学英语音频'
+    '外研社一年级起小学英语音频' : '外研社一年级起小学英语音频',
+    '外研社一年级起小学英语同步音频' : '外研社一年级起小学英语同步音频',
+    '人教版小学语文pdf':'小学语文人教版pdf',
+    '青岛版小学数学pdf':'小学数学青岛版pdf',
+    '外研社版小学英语pdf':'小学英语外研社版pdf'
 }
 # title = titleList[0]
 
@@ -61,7 +65,15 @@ def createZiliao(type,book,engver,ctitle,course,ver,year='all'):
 
 
 f = open(r'D:/jielong/resources/ziliao.json','a',encoding="utf-8")
-createZiliao(typeList['mp3'],booklist['english_book'],engverList['wys'],titleList['外研社一年级起小学英语音频'],courseList['english'],verList['wys'],'s')
 
+# 英语MP3
+# createZiliao(typeList['mp3'],booklist['english_tongbu'],engverList['wys'],titleList['外研社一年级起小学英语同步音频'],courseList['english'],verList['wys'],'s')
+
+# 语文pdf
+# createZiliao(typeList['pdf'],booklist['chinese_book'],engverList['renjiao'],titleList['人教版小学语文pdf'],courseList['chinese'],verList['renjiao'],'all')
+# 数学pdf
+# createZiliao(typeList['pdf'],booklist['math_book'],engverList['qd'],titleList['青岛版小学数学pdf'],courseList['math'],verList['qd'],'all')
+
+createZiliao(typeList['pdf'],booklist['english_book'],engverList['wys'],titleList['外研社版小学英语pdf'],courseList['english'],verList['wys'],'all')
 # f.write(json.dumps(strobj,ensure_ascii=False))
 f.close()
